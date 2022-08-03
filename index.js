@@ -1,5 +1,7 @@
 
-        // JAVASCRIPT SOLVING IN ONE OF TWO WAYS
+                // JAVASCRIPT & TYPESCRIPT
+                
+        //  SOLVING ONE OF TWO WAYS
 
     // WAY ONE >
 
